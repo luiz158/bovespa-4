@@ -26,6 +26,7 @@ import bovespa.jdbc.modelo.Report;
 import bovespa.jdbc.modelo.Login;
 
 public class Main {
+	//version 1
 	/*
 	 * public static String SMTP_SERVER = new String("smtp.felixpalma.com.br");
 	 * public static String SMTP_USER = new String("sistema@felixpalma.com.br");
