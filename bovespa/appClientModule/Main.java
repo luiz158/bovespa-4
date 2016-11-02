@@ -822,7 +822,7 @@ public class Main {
 					// System.out.println(tds.get(0).text());
 				}
 				if (ln_liga_audiencia ==1) {
-					System.out.println("audiencia [" + tds.text() + "]");
+					System.out.println("audiencia [" + tds.text() + "]1");
 					if (StringUtils.isEmpty(tds.text())) {
 						System.out.println("vazio pegar o " + tds.text());
 					}
